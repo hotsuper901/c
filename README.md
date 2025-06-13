@@ -22,12 +22,6 @@
 - Shadowsocks gRPC         : 443<br>
 <br>
 
-- Port 500
-- Port 40000
-- Port 81
-- Port51443
-- Port 58080
-- Port 666
 
 
 
