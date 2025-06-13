@@ -22,10 +22,6 @@
 - Shadowsocks gRPC         : 443<br>
 <br>
 
-## - Update Auto Reboot jam 12 Malam
-## - Update Maximal IP User & IP Unlimited
-## - Setelah REBOOT pakai port di bawah ini :
-
 - Port 500
 - Port 40000
 - Port 81
@@ -33,9 +29,6 @@
 - Port 58080
 - Port 666
 
-## - Ijin IP Hub Admin : 081931472448
-
-  
 
 
 # INSTALLASI AUTO SCRYPT LITE
